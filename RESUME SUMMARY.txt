@@ -1,0 +1,36 @@
+SUMMARY :
+
+I'm Your name, born and brought up in your_city. During my academics, I have learned
+many technical skills and Languages such as Java, Html, CSS, Python and many more. I'm an
+enthusiastic engineer, curious to learn new technology and I'm flexible to take challenges as
+an opportunity, work well in a team as well as efficiently on my own. I'm looking to commence
+my career in an organization where I can flourish myself for the growth of the company by
+applying my knowledge and skills.
+
+
+Enthusiastic and motivated Java fresher with a strong foundation in computer science and a
+passion for software development. Solid understanding of Java programming principles and
+object-oriented concepts gained through academic projects and coursework. Eager to apply
+my knowledge and learn from experienced professionals in a challenging development role.
+Committed to delivering high-quality code and contributing to the success of projects. Seeking
+opportunities to leverage my Java skills and collaborate in a dynamic team environment.'
+
+PROJECT FORMAT : 
+
+following information is required for all Projects that are mentioned in the resume –
+
+    Project Name
+    Tools used for the project
+    Project Objective
+    Project Brief
+    Github Link of the project
+
+course: EXL - Certification Program Java Full Stack from EduBridge Learning Pvt Ltd
+
+
+Closing Disclaimer is missing(DECLARATION)
+
+I am confident of my ability to work in a team and I hereby declare that the above-mentioned
+information is True and best of my knowledge.
+DATE:
+SIGNATURE :
